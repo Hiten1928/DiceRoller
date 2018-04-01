@@ -19,6 +19,7 @@ While Loops
 
 
 Thoughts
+
 I used Tkinter library for GUI to avoid using a while loop.
 
 
